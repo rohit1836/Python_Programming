@@ -1,0 +1,21 @@
+In Billing Window -
+Phone Number Limit
+Searching in item menu
+could be two same bill no
+Data not saved in database
+spacing in the billing area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
